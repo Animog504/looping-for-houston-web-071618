@@ -5,8 +5,11 @@ def using_for
 	for item in checklist
 	#10.times do 
 	  puts "Wingardium Leviosa"
-#	end
+  #end
 	end
 end
+
+#was confused at first. Thought that instructions said to  output "Wingardium leviosa"
+#10 times for every item on the checklist resulting in 100 puts.
 
 
